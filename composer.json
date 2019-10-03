@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Netgo_Gwishlist",
+    "name": "OpenMageModuleFostering\/Netgo_Gwishlist",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "This extension is specifically for the feature of enabling wishlist for the customer even though they are log in or not.",
     "authors": [
-    {
-        "name": "NetGo",
-        "email": "netattingomails@gmail.com"
-    }
-],
+        {
+            "name": "NetGo",
+            "email": "netattingomails@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
